@@ -1,0 +1,14 @@
+{
+    {"file_name": {}, 
+    "ground_truth": {"gt_parse": {"Company": "Magalam HP","Date" : "27/02/23" ,"Invoice No ": "2328-ORGNL","Total_Amt" : "4893.28"}}
+    },
+
+    {"file_name": {}, 
+    "ground_truth": {"gt_parse": {"Company": "Shree Venkateshwra HP","Date" : "28-sep-2023" ,"Invoice No ": "2182221","Total_Amt" : "529.20"}}
+    },
+
+    {"file_name": {}, 
+    "ground_truth": {"gt_parse": {"Company": "Ankit filling station Indian Oil","Date" : "26/09/23" ,"Invoice No ": "I2684","Total_Amt" : "3610.50"}}
+    }
+
+}
